@@ -1,6 +1,6 @@
-# A toolset for conducting Reliability, Availability, and Maintainability analysis
+# A toolset for Reliability, Availability, and Maintainability analysis
 
-`RAM`, standing for Reliability, Availability, and Maintainability, serves as a toolset for conducting RAM analysis. This method is instrumental in accurately estimating a system's production parameters, encompassing factors such as failure modes, frequencies, and their respective consequences.
+`RAM`, standing for Reliability, Availability, and Maintainability, serves as a toolset for RAM analysis. This method is instrumental in accurately estimating a system's production parameters, encompassing factors such as failure modes, frequencies, and their respective consequences.
 
 
 ## The package

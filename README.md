@@ -25,6 +25,6 @@ library(RAMr)
 
 ## Authors & Contacts
 
-Issues can be reported on https://github.com/mariochacano/RAM/issues.
+Issues can be reported on https://github.com/mariochacano/RAMr/issues.
 
 - Mario Chacano: mchacano@ubiobio.cl
